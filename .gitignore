@@ -1,0 +1,40 @@
+# Virtual Environment
+venv/
+env/
+.env
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Temporary Files
+*.tmp
+*.temp
+temp/
+assets/temp_*
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# IDE Files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Audio files (temporary downloads)
+*.wav
+*.mp3
+*.m4a
+*.ogg
+
+# Model files (if downloaded locally)
+*.pt
+*.bin
